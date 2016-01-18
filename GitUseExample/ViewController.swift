@@ -13,7 +13,10 @@ class ViewController: UIViewController {
     
     var cool = false
     
-    var great = 10 
+    var great = 10
+    
+    
+    var ok = 50
 
     override func viewDidLoad() {
         super.viewDidLoad()
