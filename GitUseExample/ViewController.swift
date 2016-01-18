@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     
     
     var cool = false
+    
+    var great = 10 
 
     override func viewDidLoad() {
         super.viewDidLoad()
